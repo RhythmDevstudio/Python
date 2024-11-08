@@ -30,15 +30,15 @@
 # print(divide)
 
 # Printing input from the user 
-# name= input("Enter your name: ")
-# age= int(input("Enter your age: "))
-# price= float(input("Enter the price: "))    
-# print("Your name is: ", name)
-# print("Your age is: ", age)
-# print("The price is: ", price)
+name= input("Enter your name: ")
+age= int(input("Enter your age: "))
+price= float(input("Enter the price: "))    
+print("Your name is: ", name)
+print("Your age is: ", age)
+print("The price is: ", price)
 
-# print(type(name))
-# print(type(age))
-# print(type(price))
+print(type(name))
+print(type(age))
+print(type(price))
 
-# print("My name is:", name, "and my age is:", age, "and the price is:", price)
+print("My name is:", name, "and my age is:", age, "and the price is:", price)
